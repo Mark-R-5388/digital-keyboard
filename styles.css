@@ -73,7 +73,7 @@
   width: 36%;
   max-width: 360px;
 }
-.keyboard-key-activatable::after {
+.keyboard-key-activaitable::after {
   content: '';
   top: 10px;
   right: 10px;
